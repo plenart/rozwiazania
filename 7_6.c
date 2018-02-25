@@ -5,7 +5,7 @@
 int main()
 {
     int powt = 0;
-    char pop = '';
+    char pop = 'z';
     char znak;
     while ((znak = getchar()) != '#')
     {
